@@ -8,7 +8,7 @@ export default function Location(){
       <div id="c3">
         <h6>Location component</h6>
         <p>
-          //
+        
           {lat},{long}
         </p>
       </div>

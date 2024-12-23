@@ -1,6 +1,5 @@
 import React from 'react';
-import Location from './Location';
-import Address from './Employee';
+import Address from './Address';
 export default function Employee(){
   //state: data inside the variables
   let id="101";
